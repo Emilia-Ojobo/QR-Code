@@ -1,0 +1,31 @@
+.main{
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 550px;
+    border-radius: 10px;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    align-content: center;
+    text-align: center;
+    margin: 25%;
+    margin-top: 15px;
+    padding: 0;
+}
+.main .QR-Code{
+    border-radius: 20px; 
+    background-size: contain;
+    
+}
+.main .QR-Code img{
+    width: 20rem;
+    height: 300px;
+    padding-top: 10px;
+    image-rendering: initial;
+    border-radius: 20px;
+   
+}
+.main .container{
+    padding: 25px;
+
+}
